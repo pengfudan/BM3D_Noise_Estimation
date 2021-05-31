@@ -9,4 +9,5 @@ This is a Python implementation of BM3D with noise level estimation.
 
 ## How to run
 
-    python bm3d.py
+    python bm3d.py  # for gray image
+    python bm3d_rgb.py  # for rgb image
